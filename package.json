@@ -6,7 +6,7 @@
   "homepage": "https://AlexandrRembeza.github.io/IceCream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /crew/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
